@@ -1,10 +1,10 @@
 # StaffSphere Backend
 
 ## Overview
-This is the backend for the StaffSphere Employee Management System. It handles the employee data, authentication, and the API for interacting with the employee records.
+This is the backend for the StaffSphere Employee Management System. It handles the employee data and the API for interacting with the employee records.
 
 ## Prerequisites
-- Java 11 or later
+- Java 
 - Spring Boot
 - MySQL (or any other database configured)
 - Maven (for dependency management)
